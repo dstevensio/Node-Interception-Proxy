@@ -1,0 +1,16 @@
+{
+  "name": "interception-proxy",
+  "version": "0.1.0",
+  "description": "An interception proxy for node.js",
+  "author": "Dave Stevens <davestevens84@gmail.com>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shakefon/node-interception-proxy.git" 
+  },
+  "keywords": ["interception", "proxy", "http"],
+  "dependencies": {
+    "http-proxy": "0.8.x"
+  },
+  "engines": { "node": ">= 0.6.6" }
+}

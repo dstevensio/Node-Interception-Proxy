@@ -6,7 +6,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/shakefon/node-interception-proxy.git" 
+    "url": "http://github.com/shakefon/Node-Interception-Proxy.git" 
   },
   "keywords": ["interception", "proxy", "http"],
   "dependencies": {

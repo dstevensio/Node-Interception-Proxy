@@ -11,7 +11,9 @@ Installing
 1. Install node
 2. Install npm
 3. Clone this repo
-4. In the console, cd in to this repo's folder, type: npm install
+4. In the console, cd in to this repo's folder, type: 
+  `npm install`
 5. Proxy your browser to send all requests through 127.0.0.1:8001
-6. In the console, from this repo's folder, run: node index.js
+6. In the console, from this repo's folder, run: 
+  `node index.js`
 7. Anything you browse to will cause the request details to be output to the console
